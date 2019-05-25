@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display&display=swap');
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h6
+{
+    font-family: 'Playfair Display', serif;
+}
+.row
+{
+    text-align: center
+}
+.Search
+{
+    width:200px;
+    height:100px
+    top:50%;
+    left:50%;
+    margin-left:-100px;
+    margin-top:-50px;
+}
+.Searching
+{
+    margin-top:150px;
+    text-align: center;
+}
+.Date
+{
+    width:400px;
+    height:100px;
+    top:100%;
+    left:100%;
+    margin-left:200px;
+    margin-top:10px;
+}
+.TableStatus
+{
+    float:right;
+    width:100px;
+    margin-top:90px;
+    margin-right:500px;
+    height:50px;
+}
+
+.Attendance
+{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Infor
+{
+    width:400px;
+    top:50%;
+    left:50%;
+    margin-left:300px;
+    margin-top:70px;
+}
+.Infor1
+{
+    width:400px;
+    top:50%;
+    left:50%;
+    margin-left:700px;
+    margin-top:-264px;
+}
+.FillInfor
+{
+    width:500px;
+    top:50%;
+    left:50%;
+    margin-left:600px;
+    margin-top:45px;
+}
+.FillInfor1
+{
+    width:500px;
+    top:50%;
+    left:50%;
+    margin-left:-597px;
+    margin-top:100px;
+}
+.Status
+{
+    width:160px;
+    top:50%;
+    left:50%;
+    margin-left:247px;
+    margin-top:-60px;
+}
+.Status1
+{
+    width:160px;
+    top:50%;
+    left:50%;
+    margin-left:247px;
+    margin-top:-40px;
+}
+.ExitTime
+{
+    width:103px;
+    top:50%;
+    left:50%;
+    margin-left:15px;
+    margin-top:-5px;
+}
+.Descript
+{
+    width:200px;
+    margin-left:-158px;
+    margin-top:110px;
+}
+.form
+{
+    width:500px;
+    height:400px;
+    top:50%;
+    left:50%;
+    margin-left:15px;
+    margin-top:15px;
+}
+.Approval
+{
+    width:200px;
+    top:50%;
+    left:50%;
+    margin-left:430px;
+    margin-top:-555px;
+}
+.form-group
+{
+    width:160px;
+    top:50%;
+    left:50%;
+    margin-left:420px;
+    margin-top:20px;
+}
+.Compete
+{
+    width:160px;
+    top:100%;
+    left:100%;
+    margin-left:210px;
+    margin-top:-280px;
+}
+.CompeteTable
+{
+    width:300px;
+    top:100%;
+    left:100%;
+    margin-left:150px;
+    margin-top:-250px;
+}
+.Concern
+{
+    width:160px;
+    top:100%;
+    left:100%;
+    margin-left:230px;
+    margin-top:20px;
+}
+.ConcernTable
+{
+    width:600px;
+    margin-left:150px;
+    margin-top:10px;
+}
+.threebuttons
+{
+    margin-top:30px;
+    margin-left:600px;
+    height:100px;
+}
+.Add
+{
+    width:300px;
+    margin-left:150px;
+    margin-top:10px;
+}
+.Add1
+{
+    margin-top:-10px;
+    margin-left:157px;
+    width:400px;
+}
+.Add2
+{
+    margin-top:0px;
+    margin-left:157px;
+    width:400px;
+}

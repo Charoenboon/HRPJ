@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display&display=swap');
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h6
+{
+    font-family: 'Playfair Display', serif;
+}
+.edit
+{
+    float:right;
+    width:300px;
+    margin-right:30px;
+    height:300px;
+}
+.row
+{
+    text-align: center
+}
+.Search
+{
+    width:200px;
+    height:100px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-100px;
+    margin-top:-50px;
+}
+.Searching
+{
+    margin-top:150px;
+    text-align: center;
+}
+.Date
+{
+    width:400px;
+    height:100px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-400px;
+    margin-top:-50px;
+}
+.TableStatus
+{
+    float:right;
+    width:100px;
+    margin-top:90px;
+    margin-right:500px;
+    height:50px;
+}
+.Button2
+{
+    float:right;
+    margin-top:350px;
+    margin-right:-500px;
+    height:50px;
+}
+.Attendance
+{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.Infor
+{
+    width:400px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-400px;
+    margin-top:-100px;
+}
+.Infor1
+{
+    width:400px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-20px;
+    margin-top:-100px;
+}
+.FillInfor
+{
+    width:500px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-590px;
+    margin-top:45px;
+}
+.FillInfor1
+{
+    width:500px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-597px;
+    margin-top:100px;
+}
+
+.ExitTime
+{
+    width:112px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-290px;
+    margin-top:90px;
+}
+.Descript
+{
+    width:200px;
+    margin-left:-158px;
+    margin-top:110px;
+}
+.form
+{
+    width:500px;
+    height:400px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-270px;
+    margin-top:140px;
+}
+.Approve
+{
+    width:200px;
+    position:fixed;
+    top:50%;
+    left:50%;
+    margin-left:-250px;
+    margin-top:245px;
+}
+.Approval
+{
+    width:200px;
+    margin-left:-190px;
+    margin-top:210px;
+}
